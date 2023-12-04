@@ -16,6 +16,7 @@ Control your spaceship, destroy the invaders, and strategically use the bunkers 
 - Sprites (Player, Bunker, Enemies, Missile) from the [Space Invaders Wiki](https://spaceinvaders.fandom.com/wiki/Space_Invaders_wiki)
 
 ## Features
+- CRT effect
 - Player Movement and Attack
 - Score tracking
 - HP Based Bunkers
